@@ -1,6 +1,6 @@
 # Alishba Fatima | bscs23214
 
-## PDC-Sp24-bscs23214-Fatima
+## PDC-Sp26-bscs23214-Fatima
 
 ### StudySync — Resilient Distributed Systems (Assignment 2)
 
@@ -49,7 +49,7 @@ merge changes, and retry. No data is ever silently lost.
 ```bash
 # Clone the repo
 git clone https://github.com/bscs23214/PDC-Sp26-bscs23214-Fatima.git
-cd PDC-Sp24-bscs23214-Fatima
+cd PDC-Sp26-bscs23214-Fatima
 
 # Create virtual environment
 py -3.12 -m venv venv
